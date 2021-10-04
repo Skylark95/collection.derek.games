@@ -1,0 +1,6 @@
+﻿Id: GameTableExporterPS
+Name: Game Table Exporter
+Author: Derek Cochran
+Version: 1.0
+Module: GameTableExporter.ps1
+Type: Script
