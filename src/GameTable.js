@@ -1,7 +1,24 @@
 import MUIDataTable from "mui-datatables";
 import data from "./data.json"
 
-const columns = ["Name", "Library", "ReleaseYear"];
+const columns = [
+  {
+    name: "Name"
+  },
+  {
+    name: "Library",
+    options: {
+      display: false
+    }
+  },
+  {
+    name: "ReleaseYear",
+    label: "Release Year",
+    options: {
+      display: false
+    }
+  }
+]
 
 const options = {
   selectableRows: 'none',
