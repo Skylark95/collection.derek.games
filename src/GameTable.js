@@ -14,21 +14,9 @@ const columns = [
   {
     name: "Library",
     options: {
-      display: false,
-      filterType: 'multiselect',
+      filterType: 'checkbox',
       customFilterListOptions: {
         render: v => ['Library: ', v]
-      }
-    }
-  },
-  {
-    name: "ReleaseYear",
-    label: "Release Year",
-    options: {
-      display: false,
-      filterType: 'multiselect',
-      customFilterListOptions: {
-        render: v => ['Release Year: ', v]
       }
     }
   },
@@ -51,6 +39,33 @@ const columns = [
         render: v => ['Publisher: ', v]
       }
     }
+  },
+  {
+    name: "ReleaseYear",
+    label: "Release Year",
+    options: {
+      display: false,
+      filterType: 'multiselect',
+      customFilterListOptions: {
+        render: v => ['Release Year: ', v]
+      }
+    }
+  },
+  {
+    name: "CriticScore",
+    label: "Critic Score",
+    options: {
+      display: false,
+      filter: false
+    }
+  },
+  {
+    name: "CommunityScore",
+    label: "Community Score",
+    options: {
+      display: false,
+      filter: false
+    }
   }
 ]
 
@@ -60,8 +75,8 @@ const options = {
   print: false,
   responsive: 'standard',
   sortOrder: {
-    name: 'Name',
-    direction: 'asc'
+    name: 'CriticScore',
+    direction: 'desc'
   }
 };
 

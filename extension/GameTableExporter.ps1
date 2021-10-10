@@ -7,7 +7,7 @@ function global:ExportGameTable()
 		$ReleaseYear = @{label="ReleaseYear";expression={$_.ReleaseDate.Year}}
 		$Developer = @{label="Developer";expression={$_.Developers[0].Name}}
 		$Publisher = @{label="Publisher";expression={$_.Publishers[0].Name}}
-        $PlayniteApi.Database.Games | Select-Object -Property Name, $Library, $ReleaseYear, $Developer, $Publisher | ConvertTo-Json | Out-File $path -Encoding utf8
+        $PlayniteApi.Database.Games | Select-Object -Property Name, $Library, $ReleaseYear, $Developer, $Publisher, CriticScore, CommunityScore | ConvertTo-Json | Out-File $path -Encoding utf8
         $PlayniteApi.Dialogs.ShowMessage("Game Table exported successfully.");
     }
 }
