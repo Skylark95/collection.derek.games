@@ -3,7 +3,10 @@ import data from "./data.json"
 
 const columns = [
   {
-    name: "Name"
+    name: "Name",
+    options: {
+      filter: false
+    }
   },
   {
     name: "Library",
@@ -23,8 +26,8 @@ const columns = [
 const options = {
   selectableRows: 'none',
   download: false,
-  filter: false,
   print: false,
+  responsive: 'standard',
   sortOrder: {
     name: 'Name',
     direction: 'asc'
