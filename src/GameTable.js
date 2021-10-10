@@ -5,20 +5,51 @@ const columns = [
   {
     name: "Name",
     options: {
-      filter: false
+      filterType: 'textField',
+      customFilterListOptions: {
+        render: v => ['Name: ', v]
+      }
     }
   },
   {
     name: "Library",
     options: {
-      display: false
+      display: false,
+      filterType: 'multiselect',
+      customFilterListOptions: {
+        render: v => ['Library: ', v]
+      }
     }
   },
   {
     name: "ReleaseYear",
     label: "Release Year",
     options: {
-      display: false
+      display: false,
+      filterType: 'multiselect',
+      customFilterListOptions: {
+        render: v => ['Release Year: ', v]
+      }
+    }
+  },
+  {
+    name: "Developer",
+    options: {
+      display: false,
+      filterType: 'textField',
+      customFilterListOptions: {
+        render: v => ['Developer: ', v]
+      }
+    }
+  },
+  {
+    name: "Publisher",
+    options: {
+      display: false,
+      filterType: 'textField',
+      customFilterListOptions: {
+        render: v => ['Publisher: ', v]
+      }
     }
   }
 ]
