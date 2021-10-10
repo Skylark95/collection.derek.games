@@ -3101,6 +3101,13 @@
         "Publisher":  "RageSquid"
     },
     {
+        "Name":  "112 Operator",
+        "Library":  "Steam",
+        "ReleaseYear":  2020,
+        "Developer":  "Jutsu Games",
+        "Publisher":  "Games Operators"
+    },
+    {
         "Name":  "Super Cyborg",
         "Library":  "Steam",
         "ReleaseYear":  2015,
@@ -6146,18 +6153,18 @@
         "Publisher":  "Total Monkery"
     },
     {
-        "Name":  "Tyler",
-        "Library":  "Steam",
-        "ReleaseYear":  2016,
-        "Developer":  "ILLUSIONETWORK",
-        "Publisher":  "IndieGala"
-    },
-    {
         "Name":  "Graveyard Shift",
         "Library":  "Steam",
         "ReleaseYear":  2016,
         "Developer":  "Aslan Game Studio",
         "Publisher":  "Aslan Game Studio"
+    },
+    {
+        "Name":  "Tyler",
+        "Library":  "Steam",
+        "ReleaseYear":  2016,
+        "Developer":  "ILLUSIONETWORK",
+        "Publisher":  "IndieGala"
     },
     {
         "Name":  "Aveyond 3-2: Gates of Night",
@@ -9567,6 +9574,13 @@
         "ReleaseYear":  2016,
         "Developer":  "Techland",
         "Publisher":  "Deep Silver"
+    },
+    {
+        "Name":  "Katana ZERO",
+        "Library":  "Steam",
+        "ReleaseYear":  2019,
+        "Developer":  "Askiisoft",
+        "Publisher":  "Devolver Digital"
     },
     {
         "Name":  "Tesla Effect: A Tex Murphy Adventure",
@@ -13111,18 +13125,18 @@
         "Publisher":  "Electronic Arts"
     },
     {
-        "Name":  "Beyond Good and Evil",
-        "Library":  "Ubisoft Connect",
-        "ReleaseYear":  2003,
-        "Developer":  "Ubisoft Milan",
-        "Publisher":  "Ubisoft"
-    },
-    {
         "Name":  "Double Fine Adventure: Ep11 Bonus - Alternate Cinema Scenes",
         "Library":  "Steam",
         "ReleaseYear":  2016,
         "Developer":  null,
         "Publisher":  null
+    },
+    {
+        "Name":  "Beyond Good and Evil",
+        "Library":  "Ubisoft Connect",
+        "ReleaseYear":  2003,
+        "Developer":  "Ubisoft Milan",
+        "Publisher":  "Ubisoft"
     },
     {
         "Name":  "Project Temporality",
@@ -13816,6 +13830,13 @@
         "ReleaseYear":  2008,
         "Developer":  "Ubisoft Montreal",
         "Publisher":  "Ubisoft"
+    },
+    {
+        "Name":  "World of Warships",
+        "Library":  "Epic",
+        "ReleaseYear":  2015,
+        "Developer":  "Wargaming",
+        "Publisher":  "Wargaming"
     },
     {
         "Name":  "Hot Tin Roof: The Cat That Wore A Fedora",
@@ -21182,6 +21203,13 @@
         "Publisher":  "Lucky Frame"
     },
     {
+        "Name":  "Hiveswap Friendsim",
+        "Library":  "Steam",
+        "ReleaseYear":  2018,
+        "Developer":  "What Pumpkin Games, Inc.",
+        "Publisher":  "Fellow Traveller"
+    },
+    {
         "Name":  "Move or Die - Couch Party Edition",
         "Library":  "Amazon",
         "ReleaseYear":  null,
@@ -21462,6 +21490,13 @@
         "Publisher":  "FireFly Studios"
     },
     {
+        "Name":  "Black Future \u002788",
+        "Library":  "Steam",
+        "ReleaseYear":  2019,
+        "Developer":  "SUPERSCARYSNAKES",
+        "Publisher":  "Good Shepherd Entertainment"
+    },
+    {
         "Name":  "The Hat Man: Shadow Ward",
         "Library":  "Steam",
         "ReleaseYear":  2016,
@@ -21502,6 +21537,13 @@
         "ReleaseYear":  2020,
         "Developer":  "Eyeguys",
         "Publisher":  "Santa Ragione"
+    },
+    {
+        "Name":  "The Groundz",
+        "Library":  "Humble",
+        "ReleaseYear":  null,
+        "Developer":  null,
+        "Publisher":  null
     },
     {
         "Name":  "Mages of Mystralia",
@@ -21791,18 +21833,18 @@
         "Publisher":  "DFour Games"
     },
     {
-        "Name":  "Internet Cafe Simulator",
-        "Library":  "Steam",
-        "ReleaseYear":  2019,
-        "Developer":  "Cheesecake Dev",
-        "Publisher":  "Cheesecake Dev"
-    },
-    {
         "Name":  "Luxor Evolved",
         "Library":  "Steam",
         "ReleaseYear":  2012,
         "Developer":  "MumboJumbo",
         "Publisher":  "MumboJumbo"
+    },
+    {
+        "Name":  "Internet Cafe Simulator",
+        "Library":  "Steam",
+        "ReleaseYear":  2019,
+        "Developer":  "Cheesecake Dev",
+        "Publisher":  "Cheesecake Dev"
     },
     {
         "Name":  "Dead Synchronicity: Tomorrow Comes Today",
@@ -23170,18 +23212,18 @@
         "Publisher":  "5 Lives Studios"
     },
     {
-        "Name":  "N.P.P.D. RUSH - The milk of Ultra violet",
-        "Library":  "Steam",
-        "ReleaseYear":  2014,
-        "Developer":  "Rail Slave Games",
-        "Publisher":  "KPL"
-    },
-    {
         "Name":  "Shmadow",
         "Library":  "Steam",
         "ReleaseYear":  2015,
         "Developer":  "Extrokold Games",
         "Publisher":  "Extrokold Games"
+    },
+    {
+        "Name":  "N.P.P.D. RUSH - The milk of Ultra violet",
+        "Library":  "Steam",
+        "ReleaseYear":  2014,
+        "Developer":  "Rail Slave Games",
+        "Publisher":  "KPL"
     },
     {
         "Name":  "This Strange Realm Of Mine",
@@ -24423,18 +24465,18 @@
         "Publisher":  "Devolver Digital"
     },
     {
-        "Name":  "Solarix",
-        "Library":  "Steam",
-        "ReleaseYear":  2015,
-        "Developer":  "Pulsetense Games",
-        "Publisher":  "PulseTense"
-    },
-    {
         "Name":  "Face It - A game to fight inner demons",
         "Library":  "Steam",
         "ReleaseYear":  2017,
         "Developer":  "Ilex Games",
         "Publisher":  "Gamestorming"
+    },
+    {
+        "Name":  "Solarix",
+        "Library":  "Steam",
+        "ReleaseYear":  2015,
+        "Developer":  "Pulsetense Games",
+        "Publisher":  "PulseTense"
     },
     {
         "Name":  "Ether One Redux",
@@ -27998,6 +28040,13 @@
         "ReleaseYear":  2017,
         "Developer":  null,
         "Publisher":  null
+    },
+    {
+        "Name":  "Tools Up!",
+        "Library":  "Steam",
+        "ReleaseYear":  2019,
+        "Developer":  "The Knights of Unity",
+        "Publisher":  "All In! Games"
     },
     {
         "Name":  "Rise of the Triad",
@@ -33789,6 +33838,13 @@
         "Publisher":  "Limasse Five"
     },
     {
+        "Name":  "Ring of Pain",
+        "Library":  "Steam",
+        "ReleaseYear":  2020,
+        "Developer":  "Simon Boxer",
+        "Publisher":  "Humble Games"
+    },
+    {
         "Name":  "The Basement Collection",
         "Library":  "Steam",
         "ReleaseYear":  2012,
@@ -36813,18 +36869,18 @@
         "Publisher":  "New Reality Games"
     },
     {
-        "Name":  "Gunnheim",
-        "Library":  "Steam",
-        "ReleaseYear":  2015,
-        "Developer":  "SIEIDI Ltd",
-        "Publisher":  "Meridian4"
-    },
-    {
         "Name":  "Wacky Wheels",
         "Library":  "Steam",
         "ReleaseYear":  2014,
         "Developer":  "Beavis Soft",
         "Publisher":  "3D Realms (Apogee Software)"
+    },
+    {
+        "Name":  "Gunnheim",
+        "Library":  "Steam",
+        "ReleaseYear":  2015,
+        "Developer":  "SIEIDI Ltd",
+        "Publisher":  "Meridian4"
     },
     {
         "Name":  "Puzzles Under The Hill",
@@ -38290,18 +38346,18 @@
         "Publisher":  "Codemasters"
     },
     {
-        "Name":  "Tulpa",
-        "Library":  "Steam",
-        "ReleaseYear":  2015,
-        "Developer":  "Encryptique",
-        "Publisher":  "Encryptique"
-    },
-    {
         "Name":  "SYNTHETIK",
         "Library":  "Steam",
         "ReleaseYear":  2018,
         "Developer":  "Flow Fire Games",
         "Publisher":  "Flow Fire Games"
+    },
+    {
+        "Name":  "Tulpa",
+        "Library":  "Steam",
+        "ReleaseYear":  2015,
+        "Developer":  "Encryptique",
+        "Publisher":  "Encryptique"
     },
     {
         "Name":  "Residue: Final Cut",
@@ -39165,6 +39221,13 @@
         "Publisher":  null
     },
     {
+        "Name":  "Amnesia: Rebirth",
+        "Library":  "Steam",
+        "ReleaseYear":  2020,
+        "Developer":  "Frictional Games",
+        "Publisher":  "Frictional Games"
+    },
+    {
         "Name":  "The Light Keeps Us Safe",
         "Library":  "Steam",
         "ReleaseYear":  2019,
@@ -39508,6 +39571,13 @@
         "Publisher":  "Paradox Interactive"
     },
     {
+        "Name":  "John Wick Hex",
+        "Library":  "Steam",
+        "ReleaseYear":  2020,
+        "Developer":  "Bithell Games",
+        "Publisher":  "Good Shepherd Entertainment"
+    },
+    {
         "Name":  "Krater",
         "Library":  "Steam",
         "ReleaseYear":  2012,
@@ -39823,18 +39893,18 @@
         "Publisher":  "FallenMaster"
     },
     {
-        "Name":  "Chicken Labyrinth Puzzles",
-        "Library":  "Steam",
-        "ReleaseYear":  2018,
-        "Developer":  "ZemunBRE",
-        "Publisher":  "SA Industry"
-    },
-    {
         "Name":  "Scanner Sombre",
         "Library":  "Humble",
         "ReleaseYear":  2017,
         "Developer":  "Introversion Software",
         "Publisher":  "Introversion Software"
+    },
+    {
+        "Name":  "Chicken Labyrinth Puzzles",
+        "Library":  "Steam",
+        "ReleaseYear":  2018,
+        "Developer":  "ZemunBRE",
+        "Publisher":  "SA Industry"
     },
     {
         "Name":  "Stargunner",
@@ -40794,6 +40864,13 @@
         "ReleaseYear":  2012,
         "Developer":  "Core Design",
         "Publisher":  "Square Enix"
+    },
+    {
+        "Name":  "PC Building Simulator",
+        "Library":  "Epic",
+        "ReleaseYear":  2019,
+        "Developer":  "The Irregular Corporation",
+        "Publisher":  "The Irregular Corporation"
     },
     {
         "Name":  "God\u0027s Trigger",
