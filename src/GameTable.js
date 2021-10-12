@@ -1,3 +1,4 @@
+import { Link } from "@material-ui/core";
 import MUIDataTable from "mui-datatables";
 import data from "./data.json"
 
@@ -17,6 +18,16 @@ const columns = [
       filterType: 'checkbox',
       customFilterListOptions: {
         render: v => ['Library: ', v]
+      },
+      customBodyRenderLite: (dataIndex) => {
+        let library = data[dataIndex].Library;
+        let storePage = data[dataIndex].StorePage;
+        if (storePage) {
+          return (
+            <Link href={storePage} target="_blank" rel="noreferrer" color="secondary">{library}</Link>
+          )
+        }
+        return library;
       }
     }
   },
